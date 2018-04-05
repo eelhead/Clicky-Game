@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://eelhead.github.io/Clicky-Game/",
   "dependencies": {
-    "config.json": "0.0.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17",
@@ -28,3 +27,4 @@
     "gh-pages": "^1.1.0"
   }
 }
+
