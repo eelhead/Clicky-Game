@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Triangle",
+    "image": "http://www.kidsmathgamesonline.com/images/pictures/shapes120/triangle120.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Square",
+    "image": "http://www.kidsmathgamesonline.com/images/pictures/shapes120/square120.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rectangle",
+    "image": "http://www.kidsmathgamesonline.com/images/pictures/shapes120/rectangle120.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Circle",
+    "image": "http://www.kidsmathgamesonline.com/images/pictures/shapes120/circle120.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hexagon",
+    "image": "http://www.kidsmathgamesonline.com/images/pictures/shapes120/hexagon120.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Octagon",
+    "image": "http://www.kidsmathgamesonline.com/images/pictures/shapes120/octagon120.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pentagon",
+    "image": "http://www.kidsmathgamesonline.com/images/pictures/shapes120/pentagon120.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Crescent",
+    "image": "http://www.kidsmathgamesonline.com/images/pictures/shapes120/crescent120.jpg"
+  }
+]
